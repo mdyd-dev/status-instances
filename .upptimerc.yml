@@ -2,17 +2,21 @@ owner: pavelloz
 repo: instances-uptimez
 
 sites:
-  - name: Sydney
-    url: https://prod01.sydney.platformos.com/ping
-
+  - name: Documentation
+    url: https://documentation.platformos.com/
+  - name: Marketing page
+    url: https://www.platformos.com/
+  - name: Examples
+    url: https://examples.platform-os.com/
+  - name: Template MVP
+    url: https://getmarketplace.co
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   baseUrl: /instances-uptimez
   name: Uptime
-  introTitle: "platformOS status page"
-  # introMessage: "Learn uptime, average response times, ongoing and past incidents"
+  introMessage: "Monitor crucial platformOS instances"
 
 i18n:
-  footer: Powered by [Upptime](https://upptime.js.org)
+  footer: Powered by [Upptime](https://upptime.js.org) and [platformOS](https://www.platformos.com)
