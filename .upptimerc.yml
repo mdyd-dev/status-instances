@@ -1,25 +1,18 @@
 owner: pavelloz
-repo: uptimez
+repo: instances-uptimez
 
 sites:
   - name: Sydney
     url: https://prod01.sydney.platformos.com/ping
-  - name: Oregon
-    url: https://prod01.oregon.platform-os.com/ping
-  - name: London
-    url: https://prod01.london.platform-os.com/ping
-  - name: Oregon Staging
-    url: https://staging.oregon.platformos.com/ping
-  - name: Partner Portal
-    url: https://partners.platformos.com/
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
-  baseUrl: /uptimez
+  baseUrl: /instances-uptimez
   name: Uptime
   introTitle: "platformOS status page"
-  introMessage: "Learn uptime, average response times, ongoing and past incidents"
+  # introMessage: "Learn uptime, average response times, ongoing and past incidents"
 
 i18n:
   footer: Powered by [Upptime](https://upptime.js.org)
