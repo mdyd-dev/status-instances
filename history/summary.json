@@ -1,10 +1,34 @@
 [
   {
-    "name": "Sydney",
-    "url": "https://prod01.sydney.platformos.com/ping",
-    "slug": "sydney",
+    "name": "Documentation",
+    "url": "https://documentation.platformos.com/",
+    "slug": "documentation",
     "status": "up",
     "uptime": "100.00",
-    "time": 446
+    "time": 625
+  },
+  {
+    "name": "Marketing page",
+    "url": "https://www.platformos.com/",
+    "slug": "marketing-page",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 645
+  },
+  {
+    "name": "Examples",
+    "url": "https://examples.platform-os.com/",
+    "slug": "examples",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 550
+  },
+  {
+    "name": "Template MVP",
+    "url": "https://getmarketplace.co",
+    "slug": "template-mvp",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 666
   }
 ]
