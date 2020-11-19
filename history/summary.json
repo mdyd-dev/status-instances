@@ -3,32 +3,32 @@
     "name": "Documentation",
     "url": "https://documentation.platformos.com/",
     "slug": "documentation",
-    "status": "down",
-    "uptime": "99.93",
-    "time": 576
+    "status": "up",
+    "uptime": "100.00",
+    "time": 596
   },
   {
     "name": "Marketing page",
     "url": "https://www.platformos.com/",
     "slug": "marketing-page",
-    "status": "down",
-    "uptime": "99.94",
-    "time": 648
+    "status": "up",
+    "uptime": "100.00",
+    "time": 653
   },
   {
     "name": "Examples",
     "url": "https://examples.platform-os.com/",
     "slug": "examples",
-    "status": "down",
-    "uptime": "99.96",
-    "time": 504
+    "status": "up",
+    "uptime": "100.00",
+    "time": 565
   },
   {
     "name": "Template MVP",
     "url": "https://getmarketplace.co",
     "slug": "template-mvp",
-    "status": "down",
-    "uptime": "99.97",
-    "time": 663
+    "status": "up",
+    "uptime": "100.00",
+    "time": 675
   }
 ]
