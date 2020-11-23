@@ -4,31 +4,31 @@
     "url": "https://documentation.platformos.com/",
     "slug": "documentation",
     "status": "up",
-    "uptime": "100.00",
-    "time": 598
+    "uptime": "100.00%",
+    "time": 603
   },
   {
     "name": "Marketing page",
     "url": "https://www.platformos.com/",
     "slug": "marketing-page",
     "status": "up",
-    "uptime": "100.00",
-    "time": 633
+    "uptime": "100.00%",
+    "time": 635
   },
   {
     "name": "Examples",
     "url": "https://examples.platform-os.com/",
     "slug": "examples",
     "status": "up",
-    "uptime": "100.00",
-    "time": 494
+    "uptime": "100.00%",
+    "time": 500
   },
   {
     "name": "Template MVP",
     "url": "https://getmarketplace.co",
     "slug": "template-mvp",
     "status": "up",
-    "uptime": "100.00",
-    "time": 615
+    "uptime": "99.68%",
+    "time": 610
   }
 ]
