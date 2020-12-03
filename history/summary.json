@@ -5,7 +5,7 @@
     "slug": "documentation",
     "status": "up",
     "uptime": "100.00%",
-    "time": 594
+    "time": 578
   },
   {
     "name": "Marketing page",
@@ -13,7 +13,7 @@
     "slug": "marketing-page",
     "status": "up",
     "uptime": "100.00%",
-    "time": 687
+    "time": 673
   },
   {
     "name": "Examples",
@@ -21,7 +21,7 @@
     "slug": "examples",
     "status": "up",
     "uptime": "100.00%",
-    "time": 494
+    "time": 481
   },
   {
     "name": "Template MVP",
@@ -29,6 +29,6 @@
     "slug": "template-mvp",
     "status": "up",
     "uptime": "100.00%",
-    "time": 567
+    "time": 556
   }
 ]
