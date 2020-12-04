@@ -5,7 +5,15 @@
     "slug": "documentation",
     "status": "up",
     "uptime": "100.00%",
-    "time": 578
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 575,
+    "timeDay": 502,
+    "timeWeek": 554,
+    "timeMonth": 575,
+    "timeYear": 575
   },
   {
     "name": "Marketing page",
@@ -13,7 +21,15 @@
     "slug": "marketing-page",
     "status": "up",
     "uptime": "100.00%",
-    "time": 673
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 675,
+    "timeDay": 718,
+    "timeWeek": 712,
+    "timeMonth": 675,
+    "timeYear": 675
   },
   {
     "name": "Examples",
@@ -21,7 +37,15 @@
     "slug": "examples",
     "status": "up",
     "uptime": "100.00%",
-    "time": 481
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 481,
+    "timeDay": 463,
+    "timeWeek": 456,
+    "timeMonth": 481,
+    "timeYear": 481
   },
   {
     "name": "Template MVP",
@@ -29,6 +53,14 @@
     "slug": "template-mvp",
     "status": "up",
     "uptime": "100.00%",
-    "time": 556
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 603,
+    "timeDay": 679,
+    "timeWeek": 554,
+    "timeMonth": 603,
+    "timeYear": 603
   }
 ]
