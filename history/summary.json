@@ -2,6 +2,7 @@
   {
     "name": "Documentation",
     "url": "https://documentation.platformos.com/",
+    "icon": "https://favicons.githubusercontent.com/documentation.platformos.com",
     "slug": "documentation",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 577,
-    "timeDay": 585,
-    "timeWeek": 538,
-    "timeMonth": 577,
-    "timeYear": 577
+    "time": 576,
+    "timeDay": 550,
+    "timeWeek": 525,
+    "timeMonth": 576,
+    "timeYear": 576,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Marketing page",
     "url": "https://www.platformos.com/",
+    "icon": "https://favicons.githubusercontent.com/www.platformos.com",
     "slug": "marketing-page",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 681,
-    "timeDay": 755,
-    "timeWeek": 660,
-    "timeMonth": 681,
-    "timeYear": 681
+    "time": 692,
+    "timeDay": 980,
+    "timeWeek": 712,
+    "timeMonth": 692,
+    "timeYear": 692,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Examples",
     "url": "https://examples.platform-os.com/",
+    "icon": "https://favicons.githubusercontent.com/examples.platform-os.com",
     "slug": "examples",
     "status": "up",
     "uptime": "100.00%",
@@ -42,14 +47,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 483,
-    "timeDay": 449,
-    "timeWeek": 441,
+    "timeDay": 487,
+    "timeWeek": 442,
     "timeMonth": 483,
-    "timeYear": 483
+    "timeYear": 483,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Template MVP",
     "url": "https://getmarketplace.co",
+    "icon": "https://favicons.githubusercontent.com/getmarketplace.co",
     "slug": "template-mvp",
     "status": "up",
     "uptime": "100.00%",
@@ -57,10 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 610,
-    "timeDay": 707,
-    "timeWeek": 584,
-    "timeMonth": 610,
-    "timeYear": 610
+    "time": 611,
+    "timeDay": 664,
+    "timeWeek": 600,
+    "timeMonth": 611,
+    "timeYear": 611,
+    "dailyMinutesDown": {}
   }
 ]
