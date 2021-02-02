@@ -58,17 +58,17 @@
     "url": "https://getmarketplace.co",
     "icon": "https://favicons.githubusercontent.com/getmarketplace.co",
     "slug": "template-mvp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 643,
-    "timeDay": 667,
-    "timeWeek": 697,
-    "timeMonth": 657,
-    "timeYear": 643,
+    "time": 640,
+    "timeDay": 531,
+    "timeWeek": 660,
+    "timeMonth": 649,
+    "timeYear": 640,
     "dailyMinutesDown": {}
   }
 ]
