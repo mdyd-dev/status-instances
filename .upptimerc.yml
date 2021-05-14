@@ -3,20 +3,32 @@ repo: instances-uptimez
 
 sites:
   - name: Documentation
-    url: https://documentation.platformos.com/
+    url: https://documentation.platformos.com
   - name: Marketing page
-    url: https://www.platformos.com/
+    url: https://www.platformos.com
   - name: Examples
-    url: https://examples.platform-os.com/
+    url: https://examples.platform-os.com
   - name: Template MVP
     url: https://getmarketplace.co
+  - name: Community Site
+    url: https://community.platformos.com
+  - name: Partner Portal
+    url: https://partners.platformos.com
+  - name: Sydney
+    url: https://prod01.sydney.platformos.com/_status
+  - name: Oregon
+    url: https://prod01.oregon.platform-os.com/_status
+  - name: London
+    url: https://prod01.london.platform-os.com/_status
+  - name: Oregon Staging
+    url: https://staging.oregon.platformos.com/_status
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.platformos.com
   # baseUrl: /instances-uptimez
   name: platformOS Status page
-  introMessage: "Monitor platformOS stacks"
+  introMessage: "Monitor platformOS web properties"
 
 i18n:
   footer: Powered by [Upptime](https://upptime.js.org) and [platformOS](https://www.platformos.com)
