@@ -1,5 +1,5 @@
-owner: pavelloz
-repo: instances-uptimez
+owner: mdyd-dev
+repo: status-instances
 
 sites:
   - name: Documentation
@@ -28,7 +28,7 @@ status-website:
   cname: status.platformos.com
   # baseUrl: /instances-uptimez
   name: platformOS Status page
-  introMessage: "Monitor platformOS web properties"
+  introMessage: Monitor platformOS web properties
 
 i18n:
   footer: Powered by [Upptime](https://upptime.js.org) and [platformOS](https://www.platformos.com)
