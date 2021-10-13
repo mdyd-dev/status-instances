@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 559,
     "timeDay": 199,
-    "timeWeek": 450,
+    "timeWeek": 448,
     "timeMonth": 574,
     "timeYear": 559,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 721,
     "timeDay": 295,
-    "timeWeek": 716,
+    "timeWeek": 745,
     "timeMonth": 682,
     "timeYear": 721,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 481,
     "timeDay": 151,
-    "timeWeek": 378,
+    "timeWeek": 363,
     "timeMonth": 399,
     "timeYear": 481,
     "dailyMinutesDown": {}
@@ -58,17 +58,17 @@
     "url": "https://getmarketplace.co",
     "icon": "https://favicons.githubusercontent.com/getmarketplace.co",
     "slug": "template-mvp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 784,
-    "timeDay": 469,
-    "timeWeek": 753,
-    "timeMonth": 910,
-    "timeYear": 784,
+    "time": 808,
+    "timeDay": 4960,
+    "timeWeek": 1840,
+    "timeMonth": 1186,
+    "timeYear": 808,
     "dailyMinutesDown": {}
   },
   {
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 828,
     "timeDay": 663,
-    "timeWeek": 803,
+    "timeWeek": 821,
     "timeMonth": 813,
     "timeYear": 828,
     "dailyMinutesDown": {}
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 343,
     "timeDay": 161,
-    "timeWeek": 345,
+    "timeWeek": 332,
     "timeMonth": 336,
     "timeYear": 343,
     "dailyMinutesDown": {}
