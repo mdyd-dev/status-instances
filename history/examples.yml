@@ -1,7 +1,7 @@
 url: https://examples.platform-os.com
-status: down
-code: 503
-responseTime: 268
-lastUpdated: 2022-01-27T09:32:21.654Z
+status: up
+code: 200
+responseTime: 525
+lastUpdated: 2022-01-27T09:52:12.897Z
 startTime: Thu Nov 19 2020 01:19:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
