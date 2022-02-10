@@ -112,19 +112,19 @@
     "url": "https://prod01.sydney.platformos.com/_status",
     "icon": "https://favicons.githubusercontent.com/prod01.sydney.platformos.com",
     "slug": "sydney",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 853,
-    "timeDay": 774,
-    "timeWeek": 844,
-    "timeMonth": 856,
-    "timeYear": 852,
+    "time": 854,
+    "timeDay": 981,
+    "timeWeek": 913,
+    "timeMonth": 873,
+    "timeYear": 854,
     "dailyMinutesDown": {
-      "2022-02-10": 0
+      "2022-02-10": 11
     }
   },
   {
