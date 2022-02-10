@@ -13,7 +13,7 @@
     "time": 655,
     "timeDay": 3063,
     "timeWeek": 1717,
-    "timeMonth": 1306,
+    "timeMonth": 1356,
     "timeYear": 663,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 757,
     "timeDay": 905,
     "timeWeek": 928,
-    "timeMonth": 953,
+    "timeMonth": 975,
     "timeYear": 763,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 499,
     "timeDay": 519,
     "timeWeek": 575,
-    "timeMonth": 646,
+    "timeMonth": 657,
     "timeYear": 494,
     "dailyMinutesDown": {}
   },
@@ -112,18 +112,20 @@
     "url": "https://prod01.sydney.platformos.com/_status",
     "icon": "https://favicons.githubusercontent.com/prod01.sydney.platformos.com",
     "slug": "sydney",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 853,
-    "timeDay": 894,
-    "timeWeek": 876,
-    "timeMonth": 863,
-    "timeYear": 853,
-    "dailyMinutesDown": {}
+    "timeDay": 774,
+    "timeWeek": 844,
+    "timeMonth": 856,
+    "timeYear": 852,
+    "dailyMinutesDown": {
+      "2022-02-10": 0
+    }
   },
   {
     "name": "Oregon",
