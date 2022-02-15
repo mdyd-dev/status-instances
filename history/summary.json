@@ -76,19 +76,19 @@
     "url": "https://community.platformos.com",
     "icon": "https://favicons.githubusercontent.com/community.platformos.com",
     "slug": "community-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 2763,
-    "timeDay": 2293,
-    "timeWeek": 2854,
-    "timeMonth": 3532,
-    "timeYear": 2763,
+    "time": 2767,
+    "timeDay": 2804,
+    "timeWeek": 2962,
+    "timeMonth": 3541,
+    "timeYear": 2767,
     "dailyMinutesDown": {
-      "2022-02-15": 0
+      "2022-02-15": 19
     }
   },
   {
@@ -152,19 +152,19 @@
     "url": "https://prod01.london.platform-os.com/_status",
     "icon": "https://favicons.githubusercontent.com/prod01.london.platform-os.com",
     "slug": "london",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 489,
-    "timeDay": 541,
-    "timeWeek": 539,
-    "timeMonth": 512,
+    "timeDay": 502,
+    "timeWeek": 527,
+    "timeMonth": 509,
     "timeYear": 489,
     "dailyMinutesDown": {
-      "2022-02-15": 0
+      "2022-02-15": 19
     }
   },
   {
