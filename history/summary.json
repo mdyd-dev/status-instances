@@ -76,18 +76,20 @@
     "url": "https://community.platformos.com",
     "icon": "https://favicons.githubusercontent.com/community.platformos.com",
     "slug": "community-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2771,
-    "timeDay": 3910,
-    "timeWeek": 3165,
-    "timeMonth": 3627,
-    "timeYear": 2771,
-    "dailyMinutesDown": {}
+    "time": 2763,
+    "timeDay": 2293,
+    "timeWeek": 2854,
+    "timeMonth": 3532,
+    "timeYear": 2763,
+    "dailyMinutesDown": {
+      "2022-02-15": 0
+    }
   },
   {
     "name": "Partner Portal",
@@ -150,18 +152,20 @@
     "url": "https://prod01.london.platform-os.com/_status",
     "icon": "https://favicons.githubusercontent.com/prod01.london.platform-os.com",
     "slug": "london",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 489,
-    "timeDay": 397,
-    "timeWeek": 519,
-    "timeMonth": 506,
+    "timeDay": 541,
+    "timeWeek": 539,
+    "timeMonth": 512,
     "timeYear": 489,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-15": 0
+    }
   },
   {
     "name": "Oregon Staging",
