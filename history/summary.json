@@ -24,9 +24,9 @@
     "url": "https://www.platformos.com",
     "icon": "https://favicons.githubusercontent.com/www.platformos.com",
     "slug": "marketing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,25 +35,28 @@
     "timeWeek": 911,
     "timeMonth": 1093,
     "timeYear": 812,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-02": 0
+    }
   },
   {
     "name": "Examples",
     "url": "https://examples.platform-os.com",
     "icon": "https://favicons.githubusercontent.com/examples.platform-os.com",
     "slug": "examples",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 540,
-    "timeDay": 2391,
-    "timeWeek": 1163,
-    "timeMonth": 805,
-    "timeYear": 550,
+    "time": 539,
+    "timeDay": 1257,
+    "timeWeek": 1033,
+    "timeMonth": 783,
+    "timeYear": 549,
     "dailyMinutesDown": {
+      "2022-05-02": 0,
       "2022-03-04": 8
     }
   },
@@ -145,18 +148,20 @@
     "url": "https://prod01.oregon.platform-os.com/_status",
     "icon": "https://favicons.githubusercontent.com/prod01.oregon.platform-os.com",
     "slug": "oregon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 385,
-    "timeDay": 379,
-    "timeWeek": 573,
-    "timeMonth": 479,
+    "timeDay": 277,
+    "timeWeek": 523,
+    "timeMonth": 469,
     "timeYear": 385,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-02": 0
+    }
   },
   {
     "name": "London",
