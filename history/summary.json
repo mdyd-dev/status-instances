@@ -67,8 +67,8 @@
     "slug": "template-mvp",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1046,
@@ -77,7 +77,7 @@
     "timeMonth": 0,
     "timeYear": 1018,
     "dailyMinutesDown": {
-      "2022-10-27": 0,
+      "2022-10-27": 2,
       "2022-04-26": 18,
       "2022-04-12": 9,
       "2022-02-19": 8
