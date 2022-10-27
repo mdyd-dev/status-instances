@@ -8,8 +8,6 @@ sites:
     url: https://www.platformos.com
   - name: Examples
     url: https://examples.platform-os.com
-  - name: Template MVP
-    url: https://getmarketplace.co
   - name: Community Site
     url: https://community.platformos.com
   - name: Partner Portal
