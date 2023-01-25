@@ -111,9 +111,9 @@
     "url": "https://prod01.sydney.platformos.com/_status",
     "icon": "https://icons.duckduckgo.com/ip3/prod01.sydney.platformos.com.ico",
     "slug": "sydney",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -123,6 +123,7 @@
     "timeMonth": 903,
     "timeYear": 930,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-11-26": 23,
       "2022-04-01": 19,
       "2022-02-10": 11
