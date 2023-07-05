@@ -1,7 +1,7 @@
 url: https://prod01.london.platform-os.com/_status
-status: down
-code: 503
-responseTime: 512
-lastUpdated: 2023-07-05T11:29:37.049Z
+status: up
+code: 200
+responseTime: 425
+lastUpdated: 2023-07-05T11:38:29.693Z
 startTime: Fri May 14 2021 12:32:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
