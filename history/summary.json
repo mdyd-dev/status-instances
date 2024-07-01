@@ -133,18 +133,20 @@
     "url": "https://prod01.sydney.platformos.com/_status",
     "icon": "https://icons.duckduckgo.com/ip3/prod01.sydney.platformos.com.ico",
     "slug": "sydney",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 881,
-    "timeDay": 921,
-    "timeWeek": 876,
-    "timeMonth": 850,
-    "timeYear": 897,
-    "dailyMinutesDown": {}
+    "time": 917,
+    "timeDay": 9747,
+    "timeWeek": 3088,
+    "timeMonth": 1421,
+    "timeYear": 947,
+    "dailyMinutesDown": {
+      "2024-07-01": 0
+    }
   },
   {
     "name": "Oregon",
