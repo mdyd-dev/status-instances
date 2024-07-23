@@ -4,9 +4,9 @@
     "url": "https://documentation.platformos.com",
     "icon": "https://icons.duckduckgo.com/ip3/documentation.platformos.com.ico",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 696,
     "timeYear": 732,
     "dailyMinutesDown": {
+      "2024-07-23": 0,
       "2024-07-08": 9,
       "2024-05-21": 12,
       "2024-01-30": 49
@@ -177,7 +178,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod01.london.platform-os.com.ico",
     "slug": "london",
     "status": "up",
-    "uptime": "98.24%",
+    "uptime": "98.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
