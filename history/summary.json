@@ -49,10 +49,10 @@
     "url": "https://examples.platform-os.com",
     "icon": "https://icons.duckduckgo.com/ip3/examples.platform-os.com.ico",
     "slug": "examples",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 505,
@@ -61,6 +61,7 @@
     "timeMonth": 491,
     "timeYear": 506,
     "dailyMinutesDown": {
+      "2024-11-18": 2,
       "2024-07-17": 10
     }
   },
@@ -154,9 +155,9 @@
     "url": "https://prod01.oregon.platform-os.com/_status",
     "icon": "https://icons.duckduckgo.com/ip3/prod01.oregon.platform-os.com.ico",
     "slug": "oregon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -166,6 +167,7 @@
     "timeMonth": 346,
     "timeYear": 391,
     "dailyMinutesDown": {
+      "2024-11-18": 0,
       "2024-07-17": 10
     }
   },
