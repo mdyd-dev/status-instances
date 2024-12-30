@@ -1,7 +1,7 @@
 url: https://prod01.oregon.platform-os.com/_status
-status: down
-code: 502
-responseTime: 139
-lastUpdated: 2024-12-30T21:55:20.178Z
+status: up
+code: 200
+responseTime: 189
+lastUpdated: 2024-12-30T22:06:11.730Z
 startTime: 2021-05-14T12:32:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
