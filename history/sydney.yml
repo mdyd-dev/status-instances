@@ -1,7 +1,7 @@
 url: https://prod01.sydney.platformos.com/_status
-status: down
-code: 403
-responseTime: 945
-lastUpdated: 2025-04-22T23:30:13.561Z
+status: up
+code: 200
+responseTime: 838
+lastUpdated: 2025-04-22T23:40:10.824Z
 startTime: 2021-05-14T12:32:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
