@@ -20,6 +20,8 @@ sites:
     url: https://prod01.london.platform-os.com/_status
   - name: Oregon Staging
     url: https://staging.oregon.platformos.com/_status
+  - name: HealthCheckUptimeGHA
+    url: https://hc-ping.com/3ee460af-46f0-46b6-b79c-0d3b0811be1e
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
