@@ -4,24 +4,44 @@ repo: status-instances
 sites:
   - name: Documentation
     url: https://documentation.platformos.com
+    headers:
+      - "User-Agent: platformos-uptime"
   - name: Marketing page
     url: https://www.platformos.com
+    headers:
+      - "User-Agent: platformos-uptime"    
   - name: Examples
     url: https://examples.platform-os.com
+    headers:
+      - "User-Agent: platformos-uptime"
   - name: Community Site
     url: https://community.platformos.com
+    headers:
+      - "User-Agent: platformos-uptime"
   - name: Partner Portal
     url: https://partners.platformos.com
+    headers:
+      - "User-Agent: platformos-uptime"
   - name: Sydney
     url: https://prod01.sydney.platformos.com/_status
+    headers:
+      - "User-Agent: platformos-uptime"
   - name: Oregon
     url: https://prod01.oregon.platform-os.com/_status
+    headers:
+      - "User-Agent: platformos-uptime"
   - name: London
     url: https://prod01.london.platform-os.com/_status
+    headers:
+      - "User-Agent: platformos-uptime"
   - name: Oregon Staging
     url: https://staging.oregon.platformos.com/_status
+    headers:
+      - "User-Agent: platformos-uptime"
   - name: HealthCheckUptimeGHA
     url: https://hc-ping.com/3ee460af-46f0-46b6-b79c-0d3b0811be1e
+    headers:
+      - "User-Agent: platformos-uptime"
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
