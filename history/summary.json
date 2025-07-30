@@ -27,11 +27,11 @@
     "url": "https://www.platformos.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.platformos.com.ico",
     "slug": "marketing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.77%",
     "time": 721,
     "timeDay": 627,
@@ -39,6 +39,7 @@
     "timeMonth": 760,
     "timeYear": 734,
     "dailyMinutesDown": {
+      "2025-07-30": 3,
       "2025-05-12": 11,
       "2025-05-11": 10,
       "2025-05-08": 18,
@@ -97,7 +98,7 @@
       "2025-02-20": 14,
       "2025-01-25": 9,
       "2025-01-23": 13,
-      "2024-12-30": 29
+      "2024-12-30": 11
     }
   },
   {
@@ -105,18 +106,19 @@
     "url": "https://examples.platform-os.com",
     "icon": "https://icons.duckduckgo.com/ip3/examples.platform-os.com.ico",
     "slug": "examples",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
-    "time": 480,
+    "time": 479,
     "timeDay": 401,
     "timeWeek": 347,
     "timeMonth": 436,
     "timeYear": 472,
     "dailyMinutesDown": {
+      "2025-07-30": 2,
       "2025-05-12": 11,
       "2025-05-11": 10,
       "2025-05-08": 18,
@@ -175,7 +177,7 @@
       "2025-02-20": 14,
       "2025-01-25": 9,
       "2025-01-23": 13,
-      "2024-12-30": 21
+      "2024-12-30": 11
     }
   },
   {
@@ -343,12 +345,12 @@
     "status": "up",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.91%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.77%",
     "time": 996,
     "timeDay": 1264,
-    "timeWeek": 829,
+    "timeWeek": 812,
     "timeMonth": 887,
     "timeYear": 977,
     "dailyMinutesDown": {
@@ -418,9 +420,9 @@
     "url": "https://prod01.oregon.platform-os.com/_status",
     "icon": "https://icons.duckduckgo.com/ip3/prod01.oregon.platform-os.com.ico",
     "slug": "oregon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
@@ -430,6 +432,7 @@
     "timeMonth": 358,
     "timeYear": 528,
     "dailyMinutesDown": {
+      "2025-07-30": 0,
       "2025-05-12": 11,
       "2025-05-11": 10,
       "2025-05-08": 18,
@@ -487,7 +490,7 @@
       "2025-02-21": 23,
       "2025-02-20": 25,
       "2025-01-25": 9,
-      "2024-12-30": 19
+      "2024-12-30": 11
     }
   },
   {
