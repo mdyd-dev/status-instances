@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/documentation.platformos.com.ico",
     "slug": "documentation",
     "status": "up",
-    "uptime": "96.68%",
+    "uptime": "96.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "82.40%",
     "time": 672,
-    "timeDay": 667,
-    "timeWeek": 708,
-    "timeMonth": 692,
-    "timeYear": 643,
+    "timeDay": 911,
+    "timeWeek": 754,
+    "timeMonth": 713,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2026-02-12": 25,
       "2026-02-11": 4,
@@ -100,15 +100,15 @@
     "slug": "marketing-page",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "96.64%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.82%",
-    "time": 795,
-    "timeDay": 8925,
-    "timeWeek": 3542,
-    "timeMonth": 1632,
-    "timeYear": 853,
+    "uptimeYear": "99.83%",
+    "time": 802,
+    "timeDay": 497,
+    "timeWeek": 3493,
+    "timeMonth": 1637,
+    "timeYear": 854,
     "dailyMinutesDown": {
       "2026-03-14": 49,
       "2025-11-22": 63,
@@ -151,8 +151,7 @@
       "2025-03-25": 10,
       "2025-03-22": 9,
       "2025-03-21": 20,
-      "2025-03-18": 29,
-      "2025-03-16": 13
+      "2025-03-18": 29
     }
   },
   {
@@ -162,14 +161,14 @@
     "slug": "examples",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "96.84%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.82%",
+    "uptimeYear": "99.83%",
     "time": 448,
-    "timeDay": 969,
-    "timeWeek": 630,
-    "timeMonth": 468,
+    "timeDay": 322,
+    "timeWeek": 607,
+    "timeMonth": 472,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2026-03-14": 45,
@@ -214,8 +213,7 @@
       "2025-03-25": 10,
       "2025-03-22": 9,
       "2025-03-21": 20,
-      "2025-03-18": 29,
-      "2025-03-16": 14
+      "2025-03-18": 29
     }
   },
   {
@@ -229,11 +227,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 1821,
-    "timeDay": 1566,
-    "timeWeek": 1804,
-    "timeMonth": 1997,
-    "timeYear": 1876,
+    "time": 1820,
+    "timeDay": 1806,
+    "timeWeek": 1813,
+    "timeMonth": 1975,
+    "timeYear": 1882,
     "dailyMinutesDown": {
       "2025-11-25": 15,
       "2025-07-04": 8,
@@ -275,8 +273,7 @@
       "2025-03-25": 10,
       "2025-03-22": 9,
       "2025-03-21": 20,
-      "2025-03-18": 29,
-      "2025-03-16": 14
+      "2025-03-18": 29
     }
   },
   {
@@ -290,11 +287,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.83%",
-    "time": 435,
-    "timeDay": 680,
-    "timeWeek": 539,
-    "timeMonth": 408,
-    "timeYear": 434,
+    "time": 430,
+    "timeDay": 265,
+    "timeWeek": 497,
+    "timeMonth": 411,
+    "timeYear": 433,
     "dailyMinutesDown": {
       "2026-02-23": 22,
       "2026-01-13": 12,
@@ -337,8 +334,7 @@
       "2025-03-25": 10,
       "2025-03-22": 9,
       "2025-03-21": 20,
-      "2025-03-18": 29,
-      "2025-03-16": 14
+      "2025-03-18": 29
     }
   },
   {
@@ -348,15 +344,15 @@
     "slug": "sydney",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "97.93%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.78%",
-    "time": 920,
-    "timeDay": 1434,
-    "timeWeek": 1084,
-    "timeMonth": 901,
-    "timeYear": 898,
+    "uptimeYear": "99.79%",
+    "time": 917,
+    "timeDay": 679,
+    "timeWeek": 1049,
+    "timeMonth": 903,
+    "timeYear": 888,
     "dailyMinutesDown": {
       "2026-03-14": 30,
       "2026-02-10": 41,
@@ -409,8 +405,7 @@
       "2025-03-24": 8,
       "2025-03-22": 9,
       "2025-03-21": 33,
-      "2025-03-18": 29,
-      "2025-03-16": 14
+      "2025-03-18": 29
     }
   },
   {
@@ -420,14 +415,14 @@
     "slug": "oregon",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "97.82%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "99.82%",
+    "uptimeYear": "99.83%",
     "time": 525,
-    "timeDay": 313,
-    "timeWeek": 387,
-    "timeMonth": 977,
+    "timeDay": 234,
+    "timeWeek": 368,
+    "timeMonth": 980,
     "timeYear": 473,
     "dailyMinutesDown": {
       "2026-03-14": 31,
@@ -473,8 +468,7 @@
       "2025-03-25": 10,
       "2025-03-22": 9,
       "2025-03-21": 20,
-      "2025-03-18": 29,
-      "2025-03-16": 14
+      "2025-03-18": 29
     }
   },
   {
@@ -484,15 +478,15 @@
     "slug": "london",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "98.83%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.84%",
-    "time": 578,
-    "timeDay": 801,
-    "timeWeek": 628,
-    "timeMonth": 586,
-    "timeYear": 577,
+    "time": 571,
+    "timeDay": 598,
+    "timeWeek": 636,
+    "timeMonth": 585,
+    "timeYear": 578,
     "dailyMinutesDown": {
       "2026-03-14": 17,
       "2025-11-25": 15,
@@ -534,8 +528,7 @@
       "2025-03-25": 10,
       "2025-03-22": 9,
       "2025-03-21": 20,
-      "2025-03-18": 29,
-      "2025-03-16": 14
+      "2025-03-18": 29
     }
   },
   {
@@ -545,15 +538,15 @@
     "slug": "oregon-staging",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.42%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 324,
-    "timeDay": 416,
-    "timeWeek": 400,
-    "timeMonth": 313,
-    "timeYear": 328,
+    "timeDay": 196,
+    "timeWeek": 374,
+    "timeMonth": 314,
+    "timeYear": 327,
     "dailyMinutesDown": {
       "2026-03-14": 23,
       "2026-01-13": 11,
@@ -572,11 +565,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 442,
-    "timeDay": 396,
-    "timeWeek": 414,
+    "time": 443,
+    "timeDay": 523,
+    "timeWeek": 431,
     "timeMonth": 451,
-    "timeYear": 442,
+    "timeYear": 443,
     "dailyMinutesDown": {
       "2026-02-25": 17
     }
