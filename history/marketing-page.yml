@@ -1,7 +1,7 @@
 url: https://www.platformos.com
-status: up
-code: 200
-responseTime: 1118
-lastUpdated: 2026-06-05T18:50:10.497Z
+status: down
+code: 403
+responseTime: 115
+lastUpdated: 2026-06-05T20:14:25.590Z
 startTime: 2020-11-19T01:19:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
