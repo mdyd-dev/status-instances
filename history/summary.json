@@ -100,17 +100,17 @@
     "url": "https://www.platformos.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.platformos.com.ico",
     "slug": "marketing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "97.97%",
     "uptimeMonth": "96.79%",
     "uptimeYear": "99.70%",
-    "time": 835,
-    "timeDay": 588,
-    "timeWeek": 624,
-    "timeMonth": 617,
-    "timeYear": 830,
+    "time": 834,
+    "timeDay": 455,
+    "timeWeek": 604,
+    "timeMonth": 613,
+    "timeYear": 829,
     "dailyMinutesDown": {
       "2025-07-30": 10,
       "2025-11-22": 63,
@@ -123,7 +123,8 @@
       "2026-06-07": 56,
       "2026-06-11": 101,
       "2026-06-13": 39,
-      "2026-06-14": 63
+      "2026-06-14": 63,
+      "2026-06-16": 2
     }
   },
   {
@@ -131,16 +132,16 @@
     "url": "https://examples.platform-os.com",
     "icon": "https://icons.duckduckgo.com/ip3/examples.platform-os.com.ico",
     "slug": "examples",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.99%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "97.98%",
     "uptimeMonth": "96.80%",
     "uptimeYear": "99.71%",
-    "time": 417,
-    "timeDay": 282,
-    "timeWeek": 355,
-    "timeMonth": 354,
+    "time": 416,
+    "timeDay": 273,
+    "timeWeek": 349,
+    "timeMonth": 353,
     "timeYear": 422,
     "dailyMinutesDown": {
       "2025-07-30": 9,
@@ -154,7 +155,8 @@
       "2026-06-07": 56,
       "2026-06-11": 101,
       "2026-06-13": 38,
-      "2026-06-14": 63
+      "2026-06-14": 63,
+      "2026-06-16": 1
     }
   },
   {
@@ -162,17 +164,17 @@
     "url": "https://community.platformos.com",
     "icon": "https://icons.duckduckgo.com/ip3/community.platformos.com.ico",
     "slug": "community-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "97.99%",
     "uptimeMonth": "96.81%",
     "uptimeYear": "99.68%",
-    "time": 1657,
-    "timeDay": 495,
-    "timeWeek": 528,
-    "timeMonth": 497,
-    "timeYear": 1686,
+    "time": 1654,
+    "timeDay": 379,
+    "timeWeek": 510,
+    "timeMonth": 493,
+    "timeYear": 1682,
     "dailyMinutesDown": {
       "2025-07-04": 8,
       "2025-11-25": 15,
@@ -186,7 +188,8 @@
       "2026-06-07": 56,
       "2026-06-11": 101,
       "2026-06-13": 38,
-      "2026-06-14": 63
+      "2026-06-14": 63,
+      "2026-06-16": 1
     }
   },
   {
@@ -194,16 +197,16 @@
     "url": "https://partners.platformos.com",
     "icon": "https://icons.duckduckgo.com/ip3/partners.platformos.com.ico",
     "slug": "partner-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.01%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "98.00%",
     "uptimeMonth": "96.82%",
     "uptimeYear": "99.71%",
     "time": 450,
-    "timeDay": 626,
-    "timeWeek": 495,
-    "timeMonth": 510,
+    "timeDay": 474,
+    "timeWeek": 484,
+    "timeMonth": 508,
     "timeYear": 455,
     "dailyMinutesDown": {
       "2025-11-22": 52,
@@ -217,7 +220,8 @@
       "2026-06-07": 56,
       "2026-06-11": 100,
       "2026-06-13": 37,
-      "2026-06-14": 63
+      "2026-06-14": 63,
+      "2026-06-16": 1
     }
   },
   {
@@ -225,17 +229,17 @@
     "url": "https://prod01.sydney.platformos.com/_status",
     "icon": "https://icons.duckduckgo.com/ip3/prod01.sydney.platformos.com.ico",
     "slug": "sydney",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.02%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "98.01%",
     "uptimeMonth": "96.83%",
     "uptimeYear": "99.67%",
     "time": 862,
-    "timeDay": 701,
-    "timeWeek": 772,
-    "timeMonth": 801,
-    "timeYear": 845,
+    "timeDay": 672,
+    "timeWeek": 764,
+    "timeMonth": 799,
+    "timeYear": 844,
     "dailyMinutesDown": {
       "2025-07-23": 9,
       "2025-08-14": 40,
@@ -257,7 +261,8 @@
       "2026-06-07": 55,
       "2026-06-11": 100,
       "2026-06-13": 37,
-      "2026-06-14": 63
+      "2026-06-14": 63,
+      "2026-06-16": 1
     }
   },
   {
@@ -265,15 +270,15 @@
     "url": "https://prod01.oregon.platform-os.com/_status",
     "icon": "https://icons.duckduckgo.com/ip3/prod01.oregon.platform-os.com.ico",
     "slug": "oregon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.03%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.02%",
     "uptimeMonth": "96.84%",
     "uptimeYear": "99.70%",
     "time": 470,
-    "timeDay": 226,
-    "timeWeek": 295,
+    "timeDay": 269,
+    "timeWeek": 296,
     "timeMonth": 306,
     "timeYear": 445,
     "dailyMinutesDown": {
@@ -290,7 +295,8 @@
       "2026-06-07": 55,
       "2026-06-11": 100,
       "2026-06-13": 36,
-      "2026-06-14": 62
+      "2026-06-14": 62,
+      "2026-06-16": 1
     }
   },
   {
@@ -298,17 +304,17 @@
     "url": "https://prod01.london.platform-os.com/_status",
     "icon": "https://icons.duckduckgo.com/ip3/prod01.london.platform-os.com.ico",
     "slug": "london",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "98.03%",
     "uptimeMonth": "96.85%",
     "uptimeYear": "99.73%",
     "time": 579,
-    "timeDay": 578,
-    "timeWeek": 512,
-    "timeMonth": 520,
-    "timeYear": 598,
+    "timeDay": 498,
+    "timeWeek": 505,
+    "timeMonth": 519,
+    "timeYear": 597,
     "dailyMinutesDown": {
       "2025-11-25": 15,
       "2026-03-14": 17,
@@ -319,7 +325,8 @@
       "2026-06-07": 55,
       "2026-06-11": 100,
       "2026-06-13": 36,
-      "2026-06-14": 62
+      "2026-06-14": 62,
+      "2026-06-16": 0
     }
   },
   {
