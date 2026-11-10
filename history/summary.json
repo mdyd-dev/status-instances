@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.70%",
+    "uptimeYear": "96.80%",
     "time": 763,
     "timeDay": 726,
     "timeWeek": 757,
@@ -203,17 +203,17 @@
     "url": "https://prod01.sydney.platformos.com/_status",
     "icon": "https://icons.duckduckgo.com/ip3/prod01.sydney.platformos.com.ico",
     "slug": "sydney",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 907,
-    "timeDay": 900,
-    "timeWeek": 796,
-    "timeMonth": 774,
-    "timeYear": 922,
+    "timeDay": 705,
+    "timeWeek": 761,
+    "timeMonth": 766,
+    "timeYear": 921,
     "dailyMinutesDown": {
       "2025-11-22": 45,
       "2026-01-13": 12,
@@ -239,7 +239,8 @@
       "2026-08-07": 83,
       "2026-08-24": 19,
       "2026-08-23": 4,
-      "2026-08-29": 18
+      "2026-08-29": 18,
+      "2026-11-10": 1
     }
   },
   {
